@@ -45,6 +45,12 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Solutions\AVeryBigSum.cs" />
+    <Compile Include="Solutions\CompareTheTriplets.cs" />
+    <Compile Include="Solutions\DiagonalDifference.cs" />
+    <Compile Include="Solutions\PlusMinus.cs" />
+    <Compile Include="Solutions\SimpleArraySum.cs" />
+    <Compile Include="Solutions\Staircase.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
