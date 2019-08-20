@@ -9,6 +9,8 @@ namespace HackerRank.Solutions
 {
     public class BirthdayCakeCandles
     {
+        //https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+
         internal void TakeInput()
         {
             int arCount = Convert.ToInt32(Console.ReadLine());
