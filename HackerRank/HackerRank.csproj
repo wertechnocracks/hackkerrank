@@ -45,12 +45,14 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Solutions\AppleAndOrange.cs" />
     <Compile Include="Solutions\AVeryBigSum.cs" />
     <Compile Include="Solutions\BirthdayCakeCandles.cs" />
     <Compile Include="Solutions\CamelCase.cs" />
     <Compile Include="Solutions\CompareTheTriplets.cs" />
     <Compile Include="Solutions\DiagonalDifference.cs" />
     <Compile Include="Solutions\GradingStudents.cs" />
+    <Compile Include="Solutions\Kangaroo.cs" />
     <Compile Include="Solutions\MiniMaxSum.cs" />
     <Compile Include="Solutions\PlusMinus.cs" />
     <Compile Include="Solutions\SimpleArraySum.cs" />
