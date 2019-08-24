@@ -48,14 +48,22 @@
     <Compile Include="Solutions\AppleAndOrange.cs" />
     <Compile Include="Solutions\AVeryBigSum.cs" />
     <Compile Include="Solutions\BirthdayCakeCandles.cs" />
+    <Compile Include="Solutions\BirthdayChocolate.cs" />
+    <Compile Include="Solutions\BonAppetit.cs" />
+    <Compile Include="Solutions\BreakingTheRecords.cs" />
     <Compile Include="Solutions\CamelCase.cs" />
     <Compile Include="Solutions\CompareTheTriplets.cs" />
+    <Compile Include="Solutions\DayOfTheProgrammer.cs" />
     <Compile Include="Solutions\DiagonalDifference.cs" />
+    <Compile Include="Solutions\DivisibleSumPairs.cs" />
+    <Compile Include="Solutions\DrawingBook.cs" />
     <Compile Include="Solutions\GradingStudents.cs" />
     <Compile Include="Solutions\Kangaroo.cs" />
+    <Compile Include="Solutions\MigratoryBirds.cs" />
     <Compile Include="Solutions\MiniMaxSum.cs" />
     <Compile Include="Solutions\PlusMinus.cs" />
     <Compile Include="Solutions\SimpleArraySum.cs" />
+    <Compile Include="Solutions\SockMerchant.cs" />
     <Compile Include="Solutions\Staircase.cs" />
     <Compile Include="Solutions\TimeConversion.cs" />
   </ItemGroup>
