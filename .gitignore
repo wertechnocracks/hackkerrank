@@ -260,3 +260,5 @@ paket-files/
 __pycache__/
 *.pyc
 /HackerRank/Solutions/DrawingBook.cs
+/HackerRank/Solutions/ClimbingTheLeaderboard.cs
+/HackerRank/Solutions/ElectronicsShop.cs
