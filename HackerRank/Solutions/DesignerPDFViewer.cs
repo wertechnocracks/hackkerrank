@@ -26,11 +26,7 @@ namespace HackerRank.Solutions
             Dictionary<char, int> pairs = new Dictionary<char, int>();
             for (int i = 0; i < h.Length; i++)
             {
-                for (int j = i; j < alphabates.Count(); j++)
-                {
-                    pairs.Add(alphabates[j], h[i]);
-                    break;
-                }
+                pairs.Add(alphabates[i], h[i]);
             }
 
             int maxValueCounter = 0;

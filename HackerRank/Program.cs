@@ -11,7 +11,7 @@ namespace HackerRank
     {
         static void Main(string[] args)
         {
-            new UtopianTree().TakeInput();
+            new SherlockAndSquares().TakeInput();
         }
     }
 }
