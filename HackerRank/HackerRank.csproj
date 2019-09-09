@@ -70,6 +70,7 @@
     <Compile Include="Solutions\GradingStudents.cs" />
     <Compile Include="Solutions\JumpingOnTheCloudsRevisited.cs" />
     <Compile Include="Solutions\Kangaroo.cs" />
+    <Compile Include="Solutions\LibraryFine.cs" />
     <Compile Include="Solutions\MigratoryBirds.cs" />
     <Compile Include="Solutions\MiniMaxSum.cs" />
     <Compile Include="Solutions\PickingNumbers.cs" />
