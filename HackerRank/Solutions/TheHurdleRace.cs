@@ -24,7 +24,15 @@ namespace HackerRank.Solutions
 
         private int hurdleRace(int k, int[] height)
         {
-            int maximumHeight = height.Max();
+            int maximumHeight = 0;
+
+            for (int i = 0; i < height.Length; i++)
+            {
+                int currentNumber = height[i];
+                if (currentNumber > maximumHeight)
+                    maximumHeight = currentNumber;
+            }
+
             if (maximumHeight <= k)
             {
                 return 0;

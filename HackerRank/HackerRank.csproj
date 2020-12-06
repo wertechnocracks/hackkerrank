@@ -57,6 +57,7 @@
     <Compile Include="Solutions\BonAppetit.cs" />
     <Compile Include="Solutions\BreakingTheRecords.cs" />
     <Compile Include="Solutions\CamelCase.cs" />
+    <Compile Include="Solutions\CatsAndAMouse.cs" />
     <Compile Include="Solutions\CatsAndMouse.cs" />
     <Compile Include="Solutions\CompareTheTriplets.cs" />
     <Compile Include="Solutions\CountingValleys.cs" />
@@ -66,6 +67,7 @@
     <Compile Include="Solutions\DiagonalDifference.cs" />
     <Compile Include="Solutions\DivisibleSumPairs.cs" />
     <Compile Include="Solutions\ElectronicsShop.cs" />
+    <Compile Include="Solutions\EqualizeTheArray.cs" />
     <Compile Include="Solutions\ExtraLongFactorials.cs" />
     <Compile Include="Solutions\FindDigits.cs" />
     <Compile Include="Solutions\GradingStudents.cs" />
@@ -81,6 +83,7 @@
     <Compile Include="Solutions\SimpleArraySum.cs" />
     <Compile Include="Solutions\SockMerchant.cs" />
     <Compile Include="Solutions\Staircase.cs" />
+    <Compile Include="Solutions\SubArrayWithGivenSum.cs" />
     <Compile Include="Solutions\TheHurdleRace.cs" />
     <Compile Include="Solutions\TimeConversion.cs" />
     <Compile Include="Solutions\UtopianTree.cs" />
