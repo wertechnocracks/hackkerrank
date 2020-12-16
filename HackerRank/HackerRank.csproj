@@ -52,6 +52,7 @@
     <Compile Include="Solutions\Arrays - DS.cs" />
     <Compile Include="Solutions\AVeryBigSum.cs" />
     <Compile Include="Solutions\BeautifulDaysAtTheMovies.cs" />
+    <Compile Include="Solutions\BeautifulTriplets.cs" />
     <Compile Include="Solutions\BirthdayCakeCandles.cs" />
     <Compile Include="Solutions\BirthdayChocolate.cs" />
     <Compile Include="Solutions\BonAppetit.cs" />
@@ -71,11 +72,13 @@
     <Compile Include="Solutions\ExtraLongFactorials.cs" />
     <Compile Include="Solutions\FindDigits.cs" />
     <Compile Include="Solutions\GradingStudents.cs" />
+    <Compile Include="Solutions\HalloweenSale.cs" />
     <Compile Include="Solutions\JumpingOnTheClouds.cs" />
     <Compile Include="Solutions\Kangaroo.cs" />
     <Compile Include="Solutions\LibraryFine.cs" />
     <Compile Include="Solutions\MigratoryBirds.cs" />
     <Compile Include="Solutions\MiniMaxSum.cs" />
+    <Compile Include="Solutions\MinimumDistances.cs" />
     <Compile Include="Solutions\PickingNumbers.cs" />
     <Compile Include="Solutions\PlusMinus.cs" />
     <Compile Include="Solutions\RepeatedString.cs" />
@@ -84,6 +87,7 @@
     <Compile Include="Solutions\SockMerchant.cs" />
     <Compile Include="Solutions\Staircase.cs" />
     <Compile Include="Solutions\SubArrayWithGivenSum.cs" />
+    <Compile Include="Solutions\TaumAndBday.cs" />
     <Compile Include="Solutions\TheHurdleRace.cs" />
     <Compile Include="Solutions\TimeConversion.cs" />
     <Compile Include="Solutions\UtopianTree.cs" />
